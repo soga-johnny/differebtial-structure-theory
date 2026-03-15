@@ -24,7 +24,7 @@ Straはテクノロジーと資本が流動する世界において、
 これを「本質の発見」ではなく「参照基準からの差分の記述」として答え、  
 その差分の設計と運用を通じて主体の豊かさを実現することを目的とする。
 
-> Straの設計原則（豊かさの定義・5条件・耐用年数500年・オープンスタンダードの思想）:  
+> Straの設計原則:  
 > → [locus/00-principles.md](locus/00-principles.md)
 
 一文で言えば、
@@ -200,6 +200,16 @@ XR × 時間操作（例：AR ナビによる未来情報の現在表示）= 時
 | [locus/03-causal-graph.md](locus/03-causal-graph.md) | 因果グラフ | 入力差分・出力差分の定義・逆算設計プロセス・フィードバックループ |
 | [locus/04-deviation-design.md](locus/04-deviation-design.md) | 差分設計のプロセス | 目標の差分定義から設計・実行・補正ループまでの7ステップ |
 | [locus/05-task-execution.md](locus/05-task-execution.md) | 差分実行サイクル | タスクシュート×Straの日次実行・プラズミズム連動・時間層レビュー |
+
+### currency/（通貨 — 差分流量の循環層）
+
+> 差体の実行エネルギーの循環を追跡する単位。入力差分の投入と出力差分の回収を複式モデルで記述し、評価圏アクセスコストへの用途・多変数変換レートを定義する。
+
+| ドキュメント | 内容 | 主なトピック |
+|---|---|---|
+| [currency/01-currency-definition.md](currency/01-currency-definition.md) | 通貨の定義 | 複式モデル・主観的追跡単位・資本との区別・豊かさとの非等価 |
+| [currency/02-conversion-rates.md](currency/02-conversion-rates.md) | 変換レート | 所属変換定義・評価圏変換定義・プラズミズム係数・時間係数・推定と補正 |
+| [currency/03-circulation.md](currency/03-circulation.md) | 流通と用途 | 評価圏アクセスコスト・展開戦略パターン・差分統合量との接続・健全性指標 |
 
 ### ケーススタディ（cases/）
 
