@@ -1,26 +1,26 @@
 # 実践ガイド — 差分設計のプロセス
 
-> **v0.5.0** | [← 設計原則](../foundations/00-principles.md) | [← 因果グラフ](../foundations/04-causal-graph.md) | [ケーススタディ →](../cases/_template.md)
+> **v0.5.0** | [← 設計原則](00-principles.md) | [← 因果グラフ](03-causal-graph.md) | [ケーススタディ →](../cases/_template.md)
 
 ---
 
 ## 1. このドキュメントの目的
 
 Straを「記述の枠組み」から「設計の道具」として使うための実践的な手順を示す。  
-因果グラフ（`foundations/04-causal-graph.md`）で定義した入力差分・出力差分の概念を、  
+因果グラフ（`locus/03-causal-graph.md`）で定義した入力差分・出力差分の概念を、  
 具体的な目標設定から実行・補正までの操作手順へと落とし込む。
 
 このプロセスの目的は、Straの設計原則における**豊かさの実現**である。  
 豊かさとは「所属を認識し・認識を外部に対して開き・選択肢があり・意志を持ち・実行できる状態」であり、  
 差分設計はその状態を構造的に整えるための手段として機能する。
 
-> → 設計の目的と豊かさの定義: [foundations/00-principles.md](../foundations/00-principles.md)
+> → 設計の目的と豊かさの定義: [locus/00-principles.md](00-principles.md)
 
 > **プラズミズム状態と設計の実行可能性**  
 > 本プロセスを全7ステップで実行できるのは、プラズミズムの気体〜プラズマ状態が前提となる。  
 > 固体状態ではStep 2（評価圏の特定）のみを起点とした小さな接触から始める。  
 > 液体状態ではStep 1〜5 まで実施できるが、Step 6 の設計精度は低くなりやすい。  
-> → 適応状態の確認: [foundations/06-plasmism.md § 7](../foundations/06-plasmism.md)
+> → 適応状態の確認: [locus/01-plasmism.md § 7](01-plasmism.md)
 
 ---
 
@@ -77,11 +77,11 @@ Step 7: 実行・観測・補正ループ
 > ⚠️ **所属中央値と目標差分水準の区別**  
 > ここで観測するのは「所属集団の分布中心（所属中央値）」ではなく「評価圏が価値と認識する差分の閾値（目標差分水準）」である。  
 > 両者は一致することもあるが、異なる概念として区別して扱う。  
-> → [foundations/03-economics.md § 10](../foundations/03-economics.md) / [foundations/08-symbolic-capital.md](../foundations/08-symbolic-capital.md)
+> → [sphere/03-evaluation-capital.md § 10](../sphere/03-evaluation-capital.md) / [sphere/04-symbolic-capital.md](../sphere/04-symbolic-capital.md)
 
 > **象徴資本と目標差分水準の関係**  
 > 観測した目標差分水準が実態の分布と比べて高い場合、評価圏内の象徴資本保有者による意図的な水準設定が機能している可能性がある。この場合、水準自体への参入よりも、同等の評価圏に別のアクセス経路がないかを検討することが有効なこともある。  
-> → [foundations/08-symbolic-capital.md § 4](../foundations/08-symbolic-capital.md)
+> → [sphere/04-symbolic-capital.md § 4](../sphere/04-symbolic-capital.md)
 
 ---
 
@@ -179,8 +179,8 @@ Step 7: 実行・観測・補正ループ
 
 このプロセスは「目標を差分として設計・観測・補正する枠組み」を提供する。  
 実行の継続力・動機・感情は、人間固有の差分源泉（有限性・身体・偶然・時間設計）の領域であり、  
-Straが直接扱う対象ではない（[foundations/01-core.md § 7](../foundations/01-core.md) 参照）。
+Straが直接扱う対象ではない（[sphere/01-difference-axioms.md § 7](../sphere/01-difference-axioms.md) 参照）。
 
 また、差分設計は豊かさの5条件（所属認識・更新可能性・選択肢・意志・実行基盤）を整えるための手段である。  
 他者の選択肢を奪い、意志を損なう設計（中毒的UX・情報操作等）は、  
-Straの設計原則に反する（[foundations/00-principles.md § 4](../foundations/00-principles.md) 参照）。
+Straの設計原則に反する（[locus/00-principles.md § 4](00-principles.md) 参照）。

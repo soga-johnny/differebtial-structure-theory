@@ -1,6 +1,6 @@
 # 脆弱性・対立概念・今後の課題
 
-> **v0.5.0** | [← 設計原則](../foundations/00-principles.md) | [← 参照理論](../foundations/05-references.md) | [← README](../README.md)
+> **v0.5.0** | [← 設計原則](../locus/00-principles.md) | [← 参照理論](../sphere/05-references.md) | [← README](../README.md)
 
 ---
 
@@ -104,7 +104,7 @@
   資本 / メディア / プラットフォーム / アルゴリズム / 制度 / ブルデュー的「場の支配者」
 ```
 
-**v0.7.0での部分対処**: 象徴資本（`foundations/08-symbolic-capital.md`）の導入により、  
+**v0.7.0での部分対処**: 象徴資本（`sphere/04-symbolic-capital.md`）の導入により、  
 評価圏の非中立性のメカニズムが以下の構造として記述された。
 
 - 象徴資本保有者は評価圏内の**目標差分水準の設定権**を持つ
@@ -129,7 +129,7 @@
   → これらも評価圏によっては資本化されうる
 ```
 
-**v0.4.0での対処**: 設計原則（[foundations/00-principles.md](../foundations/00-principles.md)）において  
+**v0.4.0での対処**: 設計原則（[locus/00-principles.md](../locus/00-principles.md)）において  
 「豊かさ」を規範的目的として定義したことで、倫理レイヤーが原則レベルで設置された。
 
 豊かさの5条件のうち「③選択肢の存在」「④意志の保持」「⑤実行基盤」は  

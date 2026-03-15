@@ -1,6 +1,6 @@
 # 経済論 — 差分の資本化
 
-> **v0.5.0** | [← 所属と時間](02-belonging-time.md) | [因果グラフ →](04-causal-graph.md)
+> **v0.5.0** | [← 所属と時間](02-belonging-median.md) | [因果グラフ →](../locus/03-causal-graph.md)
 
 ---
 
@@ -139,7 +139,7 @@ Economy = Capital × Reproduction over Time
 どの評価圏に参入し、どの資本を蓄積するかの選択は、  
 自身の豊かさの5条件（所属認識・更新可能性・選択肢・意志・実行基盤）に基づいて設計される。
 
-> → 豊かさの5条件と評価圏選択の原則: [foundations/00-principles.md](00-principles.md)
+> → 豊かさの5条件と評価圏選択の原則: [locus/00-principles.md](../locus/00-principles.md)
 
 > ⚠️ **倫理的留意**: 「評価圏が認めれば何でもよいのか」という問いに対しては、  
 > 設計原則が回答する。他者の豊かさの5条件を損なう資本化はStraの原則に反する。  
@@ -194,7 +194,7 @@ Economy = Capital × Reproduction over Time
 目標差分水準は固定された客観的基準ではなく、評価圏内で象徴資本を保有する主体の影響を受けて変動しうる。  
 象徴資本保有者は目標差分水準の事実上の設定権を持つことで、変換効率の構造的非対称性を生み出す。
 
-> → 象徴資本の定義・生成・作用: [foundations/08-symbolic-capital.md](08-symbolic-capital.md)
+> → 象徴資本の定義・生成・作用: [sphere/04-symbolic-capital.md](04-symbolic-capital.md)
 
 ---
 

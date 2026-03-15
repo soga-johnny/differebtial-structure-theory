@@ -1,6 +1,6 @@
 # 資本構成パターン — 組織形態別ケーススタディ（種）
 
-> **v0.7.0** | [← README](../README.md) | [← 経済論](../foundations/03-economics.md) | [← 組織的適応状態](../foundations/06-plasmism.md#9-組織主体への拡張仮定義)
+> **v0.7.0** | [← README](../README.md) | [← 経済論](../sphere/03-evaluation-capital.md) | [← 組織的適応状態](../locus/01-plasmism.md#9-組織主体への拡張仮定義)
 
 ---
 
@@ -11,7 +11,7 @@
 本ドキュメントは、組織形態・ビジネスモデル・産業セグメントごとの**資本構成傾向を抽象的なパターン**として整理した種（seed）ドキュメントである。  
 特定の企業・団体・個人名は記載しない。具体的な個別事例・定量的データへの拡張は後続作業として予定する。
 
-> 参照: ブルデューの資本構成概念（Volume / Composition）→ [foundations/05-references.md](../foundations/05-references.md)
+> 参照: ブルデューの資本構成概念（Volume / Composition）→ [sphere/05-references.md](../sphere/05-references.md)
 
 ---
 
@@ -193,7 +193,7 @@
 
 ## 5. 資本構成とプラズミズム状態の対応（仮）
 
-資本構成の傾向と組織的適応状態（[foundations/06-plasmism.md § 9](../foundations/06-plasmism.md)）には以下の関係が仮定される。
+資本構成の傾向と組織的適応状態（[locus/01-plasmism.md § 9](../locus/01-plasmism.md)）には以下の関係が仮定される。
 
 | 組織的適応状態 | 資本構成の傾向 |
 |---|---|

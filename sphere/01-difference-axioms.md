@@ -1,6 +1,6 @@
 # 核心命題と定式化
 
-> **v0.5.0** | [← 設計原則](00-principles.md) | [← README](../README.md) | [所属と時間 →](02-belonging-time.md)
+> **v0.5.0** | [← 設計原則](../locus/00-principles.md) | [← README](../README.md) | [所属と時間 →](02-belonging-median.md)
 
 ---
 
@@ -95,7 +95,7 @@ C = deviation × sphere × t
 差分を設計する意図・何のために資本化するかという問いは、構造論が答えるのではなく、  
 設計原則が答える。
 
-> → 豊かさの定義・5条件・倫理的含意: [foundations/00-principles.md](00-principles.md)
+> → 豊かさの定義・5条件・倫理的含意: [locus/00-principles.md](../locus/00-principles.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # ケーススタディ：[タイトル]
 
-> **v-** | [← 実践ガイド](../practice/01-deviation-design.md)
+> **v-** | [← 実践ガイド](../locus/04-deviation-design.md)
 
 ---
 
@@ -79,5 +79,5 @@
 
 ## 関連ドキュメント
 
-- [foundations/04-causal-graph.md](../foundations/04-causal-graph.md)
-- [practice/01-deviation-design.md](../practice/01-deviation-design.md)
+- [locus/03-causal-graph.md](../locus/03-causal-graph.md)
+- [locus/04-deviation-design.md](../locus/04-deviation-design.md)

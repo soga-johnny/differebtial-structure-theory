@@ -2,7 +2,7 @@
 
 > テクノロジーと資本が流動する世界において、  
 > 主体が選択の自由を持ちながら資本と接続するための  
-> **オープンスタンダードな実践的思想体系**（設計耐用年数：500年）
+> **オープンスタンダードな実践的思想体系**
 
 | 項目 | 内容 |
 | ------ | ------------- |
@@ -25,7 +25,7 @@ Straはテクノロジーと資本が流動する世界において、
 その差分の設計と運用を通じて主体の豊かさを実現することを目的とする。
 
 > Straの設計原則（豊かさの定義・5条件・耐用年数500年・オープンスタンダードの思想）:  
-> → [foundations/00-principles.md](foundations/00-principles.md)
+> → [locus/00-principles.md](locus/00-principles.md)
 
 一文で言えば、
 
@@ -54,7 +54,7 @@ Straは**思想から始まり、実装可能な実践フレームワーク**と
   → ギャップ分析 → 入力差分の設計・実行 → 出力差分の観測 → 補正ループ
 ```
 
-→ 詳細: [practice/01-deviation-design.md](practice/01-deviation-design.md)
+→ 詳細: [locus/04-deviation-design.md](locus/04-deviation-design.md)
 
 ---
 
@@ -170,31 +170,36 @@ XR × 時間操作（例：AR ナビによる未来情報の現在表示）= 時
 | **参照集団理論**（Merton）          | 人は絶対的基準ではなく、自身が参照する集団を基準に自己評価する。所属ごとの中央値設定の認識論的根拠              |
 | **差別化戦略**（Porter）           | 競争優位は本質的優位ではなく他との差異によって生まれる。差分の経済化モデルと構造的に近い                   |
 
-→ 詳細比較: [foundations/05-references.md](foundations/05-references.md)
+→ 詳細比較: [sphere/05-references.md](sphere/05-references.md)
 
 ---
 
 ## ドキュメントナビゲーション
 
-### 基本思想・定義（foundations/）
+### sphere/（圏観 — 差分構造の客観的記述体系）
+
+> 差分がいかにして社会・評価圏・資本を形成しているかの定義・法則・理論的背景を扱う。
 
 | ドキュメント | 内容 | 主なトピック |
 |---|---|---|
-| [foundations/00-principles.md](foundations/00-principles.md) | 設計原則 | 豊かさの定義・5条件・価値中立と規範の2層・設計耐用年数500年・オープンスタンダード |
-| [foundations/01-core.md](foundations/01-core.md) | 核心命題と定式化 | 中心命題・基本フロー・定式・6つの理論的柱・世界観 |
-| [foundations/02-belonging-time.md](foundations/02-belonging-time.md) | 所属と時間 | 絶対的/相対的所属・中央値の性質・時間の3層モデル・XRとの接続 |
-| [foundations/03-economics.md](foundations/03-economics.md) | 経済論 — 差分の資本化 | 評価圏の定義・ブルデュー資本3分類・価値化の3条件・消耗サイクル |
-| [foundations/04-causal-graph.md](foundations/04-causal-graph.md) | 因果グラフ | 入力差分・出力差分の定義・逆算設計プロセス・フィードバックループ |
-| [foundations/05-references.md](foundations/05-references.md) | 参照理論と比較考察 | 構造主義・資本理論・AI時代との接続・対立する思想 |
-| [foundations/06-plasmism.md](foundations/06-plasmism.md) | プラズミズム | 差分との関係能力の4状態・状態遷移モデル・差分統合量・豊かさの条件との対応 |
-| [foundations/07-execution-theory.md](foundations/07-execution-theory.md) | 実行の理論 | 四諦・八正道のStra的解釈・実行の動機論・実行の8軸 |
-| [foundations/08-symbolic-capital.md](foundations/08-symbolic-capital.md) | 象徴資本 | 目標差分水準・設定差分の対応認定権・生成メカニズム・評価圏の権威構造 |
+| [sphere/01-difference-axioms.md](sphere/01-difference-axioms.md) | 核心命題と定式化 | 中心命題・基本フロー・定式・6つの理論的柱・世界観 |
+| [sphere/02-belonging-median.md](sphere/02-belonging-median.md) | 所属と時間 | 絶対的/相対的所属・中央値の性質・時間の3層モデル・XRとの接続 |
+| [sphere/03-evaluation-capital.md](sphere/03-evaluation-capital.md) | 経済論 — 差分の資本化 | 評価圏の定義・ブルデュー資本3分類・価値化の3条件・消耗サイクル |
+| [sphere/04-symbolic-capital.md](sphere/04-symbolic-capital.md) | 象徴資本 | 目標差分水準・設定差分の対応認定権・生成メカニズム・評価圏の権威構造 |
+| [sphere/05-references.md](sphere/05-references.md) | 参照理論と比較考察 | 構造主義・資本理論・AI時代との接続・対立する思想 |
 
-### 実践（practice/）
+### locus/（差体 — 主体の存在・追求・実装の体系）
+
+> 差分空間における主体の座標が定まるプロセス——豊かさの追求・障壁・設計・日次実行——を扱う。
 
 | ドキュメント | 内容 | 主なトピック |
 |---|---|---|
-| [practice/01-deviation-design.md](practice/01-deviation-design.md) | 差分設計のプロセス | 目標の差分定義から設計・実行・補正ループまでの7ステップ |
+| [locus/00-principles.md](locus/00-principles.md) | 設計原則 | 豊かさの定義・5条件・価値中立と規範の2層・設計耐用年数500年・オープンスタンダード |
+| [locus/01-plasmism.md](locus/01-plasmism.md) | プラズミズム | 差分との関係能力の4状態・状態遷移モデル・差分統合量・豊かさの条件との対応 |
+| [locus/02-execution-theory.md](locus/02-execution-theory.md) | 実行の理論 | 四諦・八正道のStra的解釈・実行の動機論・実行の8軸 |
+| [locus/03-causal-graph.md](locus/03-causal-graph.md) | 因果グラフ | 入力差分・出力差分の定義・逆算設計プロセス・フィードバックループ |
+| [locus/04-deviation-design.md](locus/04-deviation-design.md) | 差分設計のプロセス | 目標の差分定義から設計・実行・補正ループまでの7ステップ |
+| [locus/05-task-execution.md](locus/05-task-execution.md) | 差分実行サイクル | タスクシュート×Straの日次実行・プラズミズム連動・時間層レビュー |
 
 ### ケーススタディ（cases/）
 

@@ -1,6 +1,6 @@
 # 因果グラフ — 入力差分と出力差分
 
-> **v0.5.0** | [← 経済論](03-economics.md) | [参照理論 →](05-references.md)
+> **v0.5.0** | [← 経済論](../sphere/03-evaluation-capital.md) | [参照理論 →](../sphere/05-references.md)
 
 ---
 

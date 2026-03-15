@@ -1,6 +1,6 @@
 # 所属と時間
 
-> **v0.5.0** | [← 核心命題](01-core.md) | [経済論 →](03-economics.md)
+> **v0.5.0** | [← 核心命題](01-difference-axioms.md) | [経済論 →](03-evaluation-capital.md)
 
 ---
 
@@ -82,7 +82,7 @@ Weighted Identity = Σ (deviation_i × weight_i)
 > ⚠️ **所属中央値と目標差分水準の区別**  
 > 所属中央値は集団の分布から定まる「設定差分」の算出基準である。  
 > 評価圏が「価値ある差分」と認識する閾値水準（**目標差分水準**）とは異なる概念として区別される。  
-> → [foundations/03-economics.md § 10](03-economics.md) / [foundations/08-symbolic-capital.md](08-symbolic-capital.md)
+> → [sphere/03-evaluation-capital.md § 10](03-evaluation-capital.md) / [sphere/04-symbolic-capital.md](04-symbolic-capital.md)
 
 ---
 
