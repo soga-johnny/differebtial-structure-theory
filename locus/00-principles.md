@@ -1,3 +1,5 @@
+<img src="../assets/stra-logo.png" width="32" align="right" />
+
 # 設計原則
 
 > **v0.6.0** | [← README](../README.md) | [核心命題 →](../sphere/01-difference-axioms.md)

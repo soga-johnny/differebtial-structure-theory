@@ -1,3 +1,5 @@
+<img src="assets/stra-logo.png" width="48" align="right" />
+
 # Stra
 
 > テクノロジーと資本が流動する世界において、  
